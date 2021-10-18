@@ -1,0 +1,120 @@
+
+.resume_1
+{
+    padding: 100px;
+}
+.One
+{
+    background-color: rgb(65, 146, 156);
+    
+    height: 200px;
+    width: 1100px;
+    margin-bottom: 5px;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   border-style:groove;
+}
+.Name
+{
+    width: 310px;
+    height: 200px;
+    float: left;
+    padding-right: 50px;
+    
+    
+}
+#one
+{
+    color: rgb(19, 29, 46);
+}
+
+ #my_img
+ {
+     width: 180px;
+     height: 180px;
+     border-radius: 50%;
+     border-style: groove;
+
+ }
+ 
+ .Two
+ {
+     
+     width: 1100px;
+     height: 1000px;
+     background-color: blanchedalmond;
+     border-style:groove;
+     
+ }
+ .column1 {
+    float: left;
+    width: 530px;
+    height: 995px;
+    border-style: groove;
+     
+  }
+  .column2 {
+    float: right;
+    width: 470px;
+    border-style: groove;
+    height: 995px; 
+    padding-right   : 87px;
+  }
+  
+  
+  .row {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .inline_flex
+  {
+      width: 500px;
+      height: 60px;
+      
+      padding:10px
+  }
+  .flex1
+  {
+      float: left;
+      margin-right: 6px;
+      background-color: grey;
+      width: 100px;
+      height: 40px;
+      border-radius: 3px;
+      padding-bottom: 4px;
+  }
+  .edu
+  {
+      padding-bottom: 20px;
+  }
+  .Seminar
+  {
+      padding-bottom: 20px;
+  }
+  
+  .skill
+  {
+      padding-bottom: 15px;
+      border-color: black;
+  }
+  .Project
+  {
+      padding-bottom: 15px;
+  }
+  .cert
+  {
+      padding-bottom: 15px;
+
+  }
+  .Language
+  {
+      padding-bottom: 15px;
+  }
+  .interest
+  {
+      padding-bottom: 15px;
+  }
+  h3{
+      border-left:2px steelblue;
+  }
